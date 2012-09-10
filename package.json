@@ -6,7 +6,7 @@
   "author": "John Rees <john@bitsushi.com>",
   "dependencies": {
     "express": "3.x",
-    "mongodb": "1.x",
-    "geoip-lite": "1.x"
+    "redis": "*",
+    "geoip-lite": "*"
   }
 }

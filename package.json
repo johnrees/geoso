@@ -3,7 +3,10 @@
   "description": "geoso url shortener",
   "version": "0.0.1",
   "private": true,
+  "author": "John Rees <john@bitsushi.com>",
   "dependencies": {
-    "express": "3.x"
+    "express": "3.x",
+    "mongodb": "1.x",
+    "geoip-lite": "1.x"
   }
 }
